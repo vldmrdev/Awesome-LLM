@@ -26,6 +26,7 @@
   - [LLM Evaluation](#llm-evaluation)
   - [LLM Training Framework](#llm-training-frameworks)
   - [LLM Inference](#llm-inference)
+  - [LLM API clients](#llm-api-clients)
   - [LLM Applications](#llm-applications)
   - [LLM Tutorials and Courses](#llm-tutorials-and-courses)
   - [LLM Books](#llm-books)
@@ -477,6 +478,14 @@
 - [deploy-llms-with-ansible](https://github.com/xamey/deploy-llms-with-ansible) - Easily deploy any LLM on a VM with minimal configuration, using Ansible.
 
 </details>
+
+## LLM API clients
+
+- [Open WebUI](https://github.com/open-webui/open-webui) -  extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs.
+- [llm](https://github.com/simonw/llm) - A CLI tool and Python library for interacting with OpenAI, Anthropic’s Claude, Google’s Gemini, Meta’s Llama and dozens of other Large Language Models, both via remote APIs and with models that can be installed and run on your own machine.
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [Chat-ui](https://github.com/huggingface/chat-ui) - A chat interface using open source models, eg OpenAssistant or Llama. It is a SvelteKit app and it powers the HuggingChat app on hf.co/chat.
+- [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 
 
 ## LLM Applications
